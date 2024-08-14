@@ -1,94 +1,136 @@
 {
-  "pharmacy": [
+  "advice": [
     {
-      "id": 1,
+      "adviceId": 1,
+      "emailAddress": "johndoe@example.com"
+    },
+    {
+      "adviceId": 2,
+      "emailAddress": "janesmith@example.com"
+    },
+    {
+      "adviceId": 3,
+      "emailAddress": "bobjohnson@example.com"
+    },
+    {
+      "adviceId": 4,
+      "emailAddress": "emilydavis@example.com"
+    },
+    {
+      "adviceId": 5,
+      "emailAddress": "michaelbrown@example.com"
+    },
+    {
+      "adviceId": 6,
+      "emailAddress": "sarahlee@example.com"
+    },
+    {
+      "adviceId": 7,
+      "emailAddress": "davidhall@example.com"
+    },
+    {
+      "adviceId": 8,
+      "emailAddress": "lisamiller@example.com"
+    },
+    {
+      "adviceId": 9,
+      "emailAddress": "jameswhite@example.com"
+    },
+    {
+      "adviceId": 10,
+      "emailAddress": "karentaylor@example.com"
+    }
+  ],
+  "comment": [
+    {
+      "commentId": 1,
       "firstName": "John",
       "lastName": "Doe",
       "emailAddress": "johndoe@example.com",
       "phoneNumber": "123-456-7890",
-      "comment": "Great service and friendly staff!",
+      "comment": "Great service!",
       "rating": 5
     },
     {
-      "id": 2,
+      "commentId": 2,
       "firstName": "Jane",
       "lastName": "Smith",
       "emailAddress": "janesmith@example.com",
       "phoneNumber": "098-765-4321",
-      "comment": "The pharmacist was very helpful and knowledgeable.",
-      "rating": 4
+      "comment": "The pharmacy was clean and well-organized.",
+      "rating": 3
     },
     {
-      "id": 3,
+      "commentId": 3,
       "firstName": "Bob",
       "lastName": "Johnson",
       "emailAddress": "bobjohnson@example.com",
       "phoneNumber": "555-555-5555",
-      "comment": "I was impressed with the wide selection of products.",
+      "comment": "Wide selection!",
       "rating": 4
     },
     {
-      "id": 4,
+      "commentId": 4,
       "firstName": "Emily",
       "lastName": "Davis",
       "emailAddress": "emilydavis@example.com",
       "phoneNumber": "555-123-4567",
-      "comment": "The staff was very friendly and accommodating.",
-      "rating": 5
-    },
-    {
-      "id": 5,
-      "firstName": "Michael",
-      "lastName": "Brown",
-      "emailAddress": "michaelbrown@example.com",
-      "phoneNumber": "555-555-1234",
-      "comment": "I was able to find everything I needed quickly.",
-      "rating": 4
-    },
-    {
-      "id": 6,
-      "firstName": "Sarah",
-      "lastName": "Lee",
-      "emailAddress": "sarahlee@example.com",
-      "phoneNumber": "555-555-5678",
-      "comment": "The pharmacy was clean and well-organized.",
-      "rating": 4
-    },
-    {
-      "id": 7,
-      "firstName": "David",
-      "lastName": "Hall",
-      "emailAddress": "davidhall@example.com",
-      "phoneNumber": "555-555-9012",
       "comment": "I was impressed with the variety of services offered.",
       "rating": 5
     },
     {
-      "id": 8,
-      "firstName": "Lisa",
-      "lastName": "Miller",
-      "emailAddress": "lisamiller@example.com",
-      "phoneNumber": "555-555-1111",
-      "comment": "The staff was very knowledgeable and helpful.",
-      "rating": 5
+      "commentId": 5,
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "emailAddress": "michaelbrown@example.com",
+      "phoneNumber": "555-555-1234",
+      "comment": "Quick service!",
+      "rating": 4
     },
     {
-      "id": 9,
-      "firstName": "James",
-      "lastName": "White",
-      "emailAddress": "jameswhite@example.com",
-      "phoneNumber": "555-555-2222",
+      "commentId": 6,
+      "firstName": "Sarah",
+      "lastName": "Lee",
+      "emailAddress": "sarahlee@example.com",
+      "phoneNumber": "555-555-5678",
+      "comment": "Clean pharmacy!",
+      "rating": 4
+    },
+    {
+      "commentId": 7,
+      "firstName": "David",
+      "lastName": "Hall",
+      "emailAddress": "davidhall@example.com",
+      "phoneNumber": "555-555-9012",
       "comment": "I was able to get in and out quickly.",
       "rating": 3
     },
     {
-      "id": 10,
+      "commentId": 8,
+      "firstName": "Lisa",
+      "lastName": "Miller",
+      "emailAddress": "lisamiller@example.com",
+      "phoneNumber": "555-555-1111",
+      "comment": "Knowledgeable staff!",
+      "rating": 5
+    },
+    {
+      "commentId": 9,
+      "firstName": "James",
+      "lastName": "White",
+      "emailAddress": "jameswhite@example.com",
+      "phoneNumber": "555-555-2222",
+      "comment": "The staff was very knowledgeable and helpful.",
+      "rating": 4
+    },
+    {
+      "commentId": 10,
       "firstName": "Karen",
       "lastName": "Taylor",
       "emailAddress": "karentaylor@example.com",
       "phoneNumber": "555-555-3333",
-      "comment": "The pharmacy was easy to navigate and find what I needed.",
-      "rating": 3
+      "comment": "The staff was very knowledgeable and helpful.",
+      "rating": 4
     }
   ]
 }
