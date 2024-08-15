@@ -133,47 +133,48 @@
       "rating": 4
     }
   ],
-  {
-    "productId": 1,
-    "name": "Healthy Special Vitamin Packet",
-    "description": "Get the ultimate boost for your health with our special vitamin packet! This packet contains a blend of essential vitamins A, B, and C to keep you energized and focused throughout the day.",
-    "ingredients": "Vitamin A, Vitamin B, Vitamin B12",
-    "price": 50.00
-  },
-  {
-    "productId": 2,
-    "name": "Skin Care Special Packet",
-    "description": "Say goodbye to dull and dry skin with our special skin care packet! This packet contains a blend of nourishing ingredients to leave your skin feeling soft and supple.",
-    "ingredients": "Hyaluronic Acid, Vitamin E, Glycerin, Special Mixed Oil",
-    "price": 40.00
-  },
-  {
-    "productId": 3,
-    "name": "Hair Care Special Packet",
-    "description": "Get the hair of your dreams with our special hair care packet! This packet contains a blend of nourishing ingredients to leave your hair feeling soft and silky.",
-    "ingredients": "Keratin, Vitamin B5, Argan Oil",
-    "price": 60.00
-  },
-  {
-    "productId": 4,
-    "name": "Eye Care Special Packet",
-    "description": "Keep your eyes healthy and bright with our special eye care packet! This packet contains a blend of nourishing ingredients to reduce puffiness and dark circles.",
-    "ingredients": "Vitamin K, Hyaluronic Acid, Caffeine",
-    "price": 30.00
-  },
-  {
-    "productId": 5,
-    "name": "Digestive Health Special Packet",
-    "description": "Keep your digestive system running smoothly with our special digestive health packet! This packet contains a blend of probiotics and fiber to support healthy digestion.",
-    "ingredients": "Probiotics, Fiber, Digestive Enzymes",
-    "price": 45.00
-  },
-  {
-    "productId": 6,
-    "name": "Immune System Special Packet",
-    "description": "Boost your immune system with our special immune system packet! This packet contains a blend of vitamins and minerals to support healthy immune function.",
-    "ingredients": "Vitamin C, Vitamin D, Zinc",
-    "price": 55.00
-  }
-]
+  "products": [
+    {
+      "productId": 1,
+      "name": "Healthy Special Vitamin Packet",
+      "description": "Get the ultimate boost for your health with our special vitamin packet! This packet contains a blend of essential vitamins A, B, and C to keep you energized and focused throughout the day.",
+      "ingredients": "Vitamin A, Vitamin B, Vitamin B12",
+      "price": 50.00
+    },
+    {
+      "productId": 2,
+      "name": "Skin Care Special Packet",
+      "description": "Say goodbye to dull and dry skin with our special skin care packet! This packet contains a blend of nourishing ingredients to leave your skin feeling soft and supple.",
+      "ingredients": "Hyaluronic Acid, Vitamin E, Glycerin, Special Mixed Oil",
+      "price": 40.00
+    },
+    {
+      "productId": 3,
+      "name": "Hair Care Special Packet",
+      "description": "Get the hair of your dreams with our special hair care packet! This packet contains a blend of nourishing ingredients to leave your hair feeling soft and silky.",
+      "ingredients": "Keratin, Vitamin B5, Argan Oil",
+      "price": 60.00
+    },
+    {
+      "productId": 4,
+      "name": "Eye Care Special Packet",
+      "description": "Keep your eyes healthy and bright with our special eye care packet! This packet contains a blend of nourishing ingredients to reduce puffiness and dark circles.",
+      "ingredients": "Vitamin K, Hyaluronic Acid, Caffeine",
+      "price": 30.00
+    },
+    {
+      "productId": 5,
+      "name": "Digestive Health Special Packet",
+      "description": "Keep your digestive system running smoothly with our special digestive health packet! This packet contains a blend of probiotics and fiber to support healthy digestion.",
+      "ingredients": "Probiotics, Fiber, Digestive Enzymes",
+      "price": 45.00
+    },
+    {
+      "productId": 6,
+      "name": "Immune System Special Packet",
+      "description": "Boost your immune system with our special immune system packet! This packet contains a blend of vitamins and minerals to support healthy immune function.",
+      "ingredients": "Vitamin C, Vitamin D, Zinc",
+      "price": 55.00
+    }
+  ]
 }
